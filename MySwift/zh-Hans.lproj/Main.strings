@@ -1,0 +1,33 @@
+
+/* Class = "UITabBarItem"; title = "Message"; ObjectID = "8I6-UK-VFu"; */
+"8I6-UK-VFu.title" = "Message";
+
+/* Class = "UIBarButtonItem"; title = "setting"; ObjectID = "C8q-QI-RYx"; */
+"C8q-QI-RYx.title" = "setting";
+
+/* Class = "UIViewController"; title = "MyProfile"; ObjectID = "EaU-s4-7wb"; */
+"EaU-s4-7wb.title" = "MyProfile";
+
+/* Class = "UIViewController"; title = "Setting"; ObjectID = "Hk9-3g-z7a"; */
+"Hk9-3g-z7a.title" = "Setting";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "asE-jj-2Z7"; */
+"asE-jj-2Z7.title" = "Profile";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "dDk-cK-fAV"; */
+"dDk-cK-fAV.title" = "Profile";
+
+/* Class = "UINavigationController"; title = "Home"; ObjectID = "eJY-tj-Ect"; */
+"eJY-tj-Ect.title" = "Home";
+
+/* Class = "UINavigationController"; title = "Profile"; ObjectID = "fn7-Lr-VNV"; */
+"fn7-Lr-VNV.title" = "Profile";
+
+/* Class = "UINavigationController"; title = "Message"; ObjectID = "i12-rB-jin"; */
+"i12-rB-jin.title" = "Message";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "ktt-tK-soW"; */
+"ktt-tK-soW.title" = "Home";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "reu-sf-4gy"; */
+"reu-sf-4gy.title" = "Profile";
