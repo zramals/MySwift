@@ -40,7 +40,7 @@ class MyProfileViewController: BaseViewController {
 
 extension MyProfileViewController: UITableViewDataSource, UITableViewDelegate{
     var dataArray :NSArray{
-        return ["我","是","测","试","数据"]
+        return ["I","am","test","data"]
     }
     // MARK: BUILD UI
     func buildUI(){
